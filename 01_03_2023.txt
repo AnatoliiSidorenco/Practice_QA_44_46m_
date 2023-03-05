@@ -1,1 +1,1 @@
-https://telran6.testrail.io/index.php?/cases/view/2102
+https://telran6.testrail.io/index.php?/suites/view/10&group_by=cases:section_id&group_order=asc&display_deleted_cases=0
